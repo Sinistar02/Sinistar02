@@ -1,9 +1,12 @@
-## Hi there 👋
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello there!&fontSize=70" />
+</p>
+## ✨ Hello visitors! ✨
 
-(currently working in progress...)
 
-
-The big brown fox jumps over a lazy dog
+## CONTACT
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=shw200411@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sakotan45)
 
 <!--
 **Sinistar02/Sinistar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
