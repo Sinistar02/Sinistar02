@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <h2> <b> ABOUT ME </b> </h2>
+  <h2> <b> ✏️ABOUT ME✏️ </b> </h2>
   <br>
   I am an university student. very cool. <br>
   Making some games by myself. 3 games were made by far.
@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <h2> <b> PORTFOLIO </b> </h2>
+  <h2> <b> 🎮DEVELOPED GAMES🎮 </b> </h2>
   <br>
   Avoid Figures!! - 
   <a href="https://sakotan.itch.io/avoid-figures">
@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <h2> <b> CONTACT </b> </h2>
+  <h2> <b> 📧CONTACT📧 </b> </h2>
   <br>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=shw200411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
