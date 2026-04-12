@@ -9,7 +9,7 @@
   <h2> <b> ✏️ABOUT ME✏️ </b> </h2>
   <br>
   I am Sinistar02, a game developer. <br>
-  I'm still a college student, therefore I'm steadily learning about making games. <br>
+  I'm a college student, so I'm steadily learning about making games. <br>
   I've made 3 games so far. Links are down below. 
 </div>
 
