@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&%20render&fontSize=90" />
 </div>
 
 <br>
@@ -8,8 +8,19 @@
 <div align="center">
   <h2> <b> ✏️ABOUT ME✏️ </b> </h2>
   <br>
-  I am an university student. very cool. <br>
-  Making some games by myself. 3 games were made by far.
+  I am Sinistar02, a game developer. <br>
+  I'm still a college student, therefore I'm steadily learning about making games. <br>
+  I've made 3 games so far. Links are down below. 
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <h2> <b> 🎖️GOALS OF THIS YEAR🎖️ </b> </h2>
+  <br>
+  🎮 Make a 'complete' game that has a fun mechanic and a proper ending. <br>
+  📝 Learn Unity and make a game out of it.
 </div>
 
 <br>
@@ -18,20 +29,29 @@
 <div align="center">
   <h2> <b> 🎮DEVELOPED GAMES🎮 </b> </h2>
   <br>
-  Avoid Figures!! - 
+  
+  <b>Avoid Figures!!</b> <br>
+  Action, Arcade, Bullet hell <br>
   <a href="https://sakotan.itch.io/avoid-figures">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
+  
   <br>
-  The Last Stand - 
+  
+  <b>The Last Stand</b> <br>
+  Defence, Arcade, 2D Shooter <br>
   <a href="https://sakotan.itch.io/the-last-stand">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
+  
   <br>
-  The Crimson Mansion - 
+  
+  <b>The Crimson Mansion</b> <br>
+  Action, Adventure, Puzzle, Horror <br>
   <a href="https://sakotan.itch.io/the-crimson-mansion">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
+  
 </div>
 
 <br>
