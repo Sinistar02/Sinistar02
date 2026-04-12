@@ -46,12 +46,15 @@
   <a href="https://sakotan.itch.io/the-last-stand">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
+  <a href="https://github.com/Sinistar02/Hardcore_Defence">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  </a>
   
   <br>
   
   <b>The Crimson Mansion</b> <br>
   Action, Adventure, Puzzle, Horror <br>
-  <a href="https://sakotan.itch.io/the-crimson-mansion">
+  <a href="https://sakotan.itch.io/the-crimson-mansion-demo">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
   </a>
   
