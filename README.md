@@ -20,6 +20,7 @@
   <h2> <b> 🎖️GOALS OF THIS YEAR🎖️ </b> </h2>
   <br>
   🎮 Make a 'complete' game that has a fun mechanic and a proper ending. <br>
+  👻 Finish making 'The Crimson Mansion'. <br>
   📝 Learn Unity and make a game out of it.
 </div>
 
